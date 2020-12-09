@@ -5,7 +5,7 @@
 
 ## Composting - Solid Waste Management Facilities in NY | Open Data NY
 
-You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-](https://aws.amazon.com/marketplace/pp/prodview-).
+You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-vwwfoqleekt5q](https://aws.amazon.com/marketplace/pp/prodview-vwwfoqleekt5q).
 
 ### Main Overview
 The dataset file included with this product is provided in CSV format. README files are also included to offer context on data fields used throughout the dataset files. The specific files included with each revisions may vary.
